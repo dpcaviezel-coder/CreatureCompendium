@@ -1,0 +1,17 @@
+C:\Users\dpcav\source\MyProjects\CreatureCompendium\CreatureCompendium\bin\Debug\net8.0\CreatureCompendium.exe
+C:\Users\dpcav\source\MyProjects\CreatureCompendium\CreatureCompendium\bin\Debug\net8.0\CreatureCompendium.deps.json
+C:\Users\dpcav\source\MyProjects\CreatureCompendium\CreatureCompendium\bin\Debug\net8.0\CreatureCompendium.runtimeconfig.json
+C:\Users\dpcav\source\MyProjects\CreatureCompendium\CreatureCompendium\bin\Debug\net8.0\CreatureCompendium.dll
+C:\Users\dpcav\source\MyProjects\CreatureCompendium\CreatureCompendium\bin\Debug\net8.0\CreatureCompendium.pdb
+C:\Users\dpcav\source\MyProjects\CreatureCompendium\CreatureCompendium\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\dpcav\source\MyProjects\CreatureCompendium\CreatureCompendium\obj\Debug\net8.0\CreatureCompendium.csproj.AssemblyReference.cache
+C:\Users\dpcav\source\MyProjects\CreatureCompendium\CreatureCompendium\obj\Debug\net8.0\CreatureCompendium.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dpcav\source\MyProjects\CreatureCompendium\CreatureCompendium\obj\Debug\net8.0\CreatureCompendium.AssemblyInfoInputs.cache
+C:\Users\dpcav\source\MyProjects\CreatureCompendium\CreatureCompendium\obj\Debug\net8.0\CreatureCompendium.AssemblyInfo.cs
+C:\Users\dpcav\source\MyProjects\CreatureCompendium\CreatureCompendium\obj\Debug\net8.0\CreatureCompendium.csproj.CoreCompileInputs.cache
+C:\Users\dpcav\source\MyProjects\CreatureCompendium\CreatureCompendium\obj\Debug\net8.0\Creature.9B96C0AA.Up2Date
+C:\Users\dpcav\source\MyProjects\CreatureCompendium\CreatureCompendium\obj\Debug\net8.0\CreatureCompendium.dll
+C:\Users\dpcav\source\MyProjects\CreatureCompendium\CreatureCompendium\obj\Debug\net8.0\refint\CreatureCompendium.dll
+C:\Users\dpcav\source\MyProjects\CreatureCompendium\CreatureCompendium\obj\Debug\net8.0\CreatureCompendium.pdb
+C:\Users\dpcav\source\MyProjects\CreatureCompendium\CreatureCompendium\obj\Debug\net8.0\CreatureCompendium.genruntimeconfig.cache
+C:\Users\dpcav\source\MyProjects\CreatureCompendium\CreatureCompendium\obj\Debug\net8.0\ref\CreatureCompendium.dll

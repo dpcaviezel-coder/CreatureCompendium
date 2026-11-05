@@ -1,0 +1,95 @@
+[
+  {
+    "Name": "Flametail",
+    "CreatureType": 0,
+    "HP": 100,
+    "MP": 50,
+    "Attack": 30,
+    "Defense": 20,
+    "Speed": 25,
+    "Moves": [
+      {
+        "Name": "Flame Burst",
+        "Type": "Fire",
+        "Power": 40,
+        "Accuracy": 90,
+        "MPCost": 10,
+        "Description": "A burst of fire that scorches the opponent."
+      },
+      {
+        "Name": "Tail Whip",
+        "Type": "Normal",
+        "Power": 20,
+        "Accuracy": 100,
+        "MPCost": 5,
+        "Description": "A quick tail attack that may lower the opponent's defense."
+      }
+    ],
+    "Habitat": 1,
+    "Rarity": 2,
+    "Description": "A fiery creature with a blazing tail.",
+    "CreatureEvolvesTo": "InfernoTail"
+  },
+  {
+    "Name": "AquaFin",
+    "CreatureType": 1,
+    "HP": 90,
+    "MP": 60,
+    "Attack": 25,
+    "Defense": 30,
+    "Speed": 20,
+    "Moves": [
+      {
+        "Name": "Water Jet",
+        "Type": "Water",
+        "Power": 35,
+        "Accuracy": 95,
+        "MPCost": 8,
+        "Description": "A high-pressure jet of water that hits the opponent."
+      },
+      {
+        "Name": "Bubble Shield",
+        "Type": "Water",
+        "Power": 0,
+        "Accuracy": 100,
+        "MPCost": 5,
+        "Description": "Creates a protective shield of bubbles that reduces damage."
+      }
+    ],
+    "Habitat": 3,
+    "Rarity": 1,
+    "Description": "A sleek aquatic creature with a powerful fin.",
+    "CreatureEvolvesTo": "TsunamiFin"
+  },
+  {
+    "Name": "Leafy",
+    "CreatureType": 2,
+    "HP": 80,
+    "MP": 70,
+    "Attack": 20,
+    "Defense": 25,
+    "Speed": 30,
+    "Moves": [
+      {
+        "Name": "Vine Whip",
+        "Type": "Grass",
+        "Power": 30,
+        "Accuracy": 90,
+        "MPCost": 7,
+        "Description": "Whips the opponent with a vine."
+      },
+      {
+        "Name": "Leaf Blade",
+        "Type": "Grass",
+        "Power": 45,
+        "Accuracy": 85,
+        "MPCost": 12,
+        "Description": "A sharp leaf attack that may cause critical damage."
+      }
+    ],
+    "Habitat": 0,
+    "Rarity": 0,
+    "Description": "A nimble creature covered in leaves.",
+    "CreatureEvolvesTo": "ForestGuardian"
+  }
+]
