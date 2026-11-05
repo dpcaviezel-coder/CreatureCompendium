@@ -1,55 +1,45 @@
-CreatureCompendium
-CreatureCompendium is a C# console application designed to store, search, and manage a collection of creatures.
+# CreatureCompendium
 
-Features:
-- Add Creatures
-- Remove Creatures
-- Edit Creatures
-- Search By Name
-- Search By First Letter
-- Search By Habitat
-- Search By Type
-- Search By Rarity
-- Save To JSON
-- Load From JSON
-- Type Matchup Calculator
-- Damage Calculation
+CreatureCompendium is a C# console application for storing, searching, and managing a collection of creatures.
 
-Concepts Practiced:
-Object-Oriented Programming,
-Collections,
-CRUD Operations,
-Enums,
-JSON Serialization,
-JSON Deserialization,
-LINQ,
-Search, and Filtering
+## Features
 
-Composition:
-Creature Information
+- Add, edit, and remove creatures
+- Search by name, first letter, habitat, type, or rarity
+- Save and load creature data as JSON
+- Calculate type matchups and damage
+
+## Concepts Practiced
+
+- Object-oriented programming and composition
+- Collections and CRUD operations
+- Enums
+- JSON serialization and deserialization
+- LINQ, searching, and filtering
+
+## Creature Information
+
 Each creature stores:
 
 - Name
 - Type
-- HP
-- MP
-- Attack
-- Defense
-- Speed
-- Habitat
-- Rarity
+- HP and MP
+- Attack, defense, and speed
+- Habitat and rarity
 - Description
 - Evolution
 - Moves
 
-Future Improvements
-Add Creature Through User Input
-Edit Creatures Through Menu
-Delete Creatures Through Menu
-Battle Simulator
-Status Effects
-Experience System
-SQLite Database
-ASP.NET Front End
-Purpose
-This project was created as part of a C# learning journey and serves as the foundation for a larger creature encyclopedia and management application.
+## Future Improvements
+
+- Add creatures through user input
+- Edit and delete creatures through a menu
+- Battle simulator
+- Status effects
+- Experience system
+- SQLite database
+- ASP.NET front end
+
+## Purpose
+
+This project was created as part of a C# learning journey. It is the foundation for a larger creature encyclopedia and management application.
