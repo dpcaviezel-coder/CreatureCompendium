@@ -27,18 +27,19 @@ Composition
 Creature Information
 Each creature stores:
 
-Name
-Type
-HP
-MP
-Attack
-Defense
-Speed
-Habitat
-Rarity
-Description
-Evolution
-Moves
+- Name
+- Type
+- HP
+- MP
+- Attack
+- Defense
+- Speed
+- Habitat
+- Rarity
+- Description
+- Evolution
+- Moves
+
 Future Improvements
 Add Creature Through User Input
 Edit Creatures Through Menu
